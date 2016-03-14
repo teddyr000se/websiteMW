@@ -1,0 +1,469 @@
+# Copyright (C) 2015 GoDaddy Inc
+# This file is distributed under the same license as the WP Easy Mode package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Easy Mode\n"
+"Report-Msgid-Bugs-To: https://github.com/godaddy/wp-easy-mode/issues\n"
+"POT-Creation-Date: 2015-12-21 13:50-0600\n"
+"PO-Revision-Date: 2015-12-21 13:50-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;_n;__ngettext_noop;_n_noop;_x;_nx;"
+"_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;"
+"esc_html_x;_c;_nc\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: content\n"
+"X-Poedit-SearchPathExcluded-2: languages\n"
+"X-Poedit-SearchPathExcluded-3: tests\n"
+
+#: includes/class-wpem-admin.php:172
+msgid "WP Easy Mode"
+msgstr "WP 简易模式"
+
+#: includes/class-wpem-admin.php:173
+msgid "Easy Mode"
+msgstr "简易模式"
+
+#: includes/class-wpem-admin.php:213
+msgid "Are you sure you want to exit and configure WordPress on your own?"
+msgstr "是否确定要退出并自己配置 WordPress？"
+
+#: includes/class-wpem-admin.php:249
+msgid "Expand Sidebar"
+msgstr "展开侧栏"
+
+#: includes/class-wpem-admin.php:250 includes/class-wpem-step-theme.php:73
+msgid "Collapse Sidebar"
+msgstr "收起侧栏"
+
+#: includes/class-wpem-customizer.php:37
+msgid "Watch Video"
+msgstr "观看视频"
+
+#: includes/class-wpem-customizer.php:38
+msgid ""
+"You've just created your website! Click \"Watch Video\" to view a quick "
+"demonstration of how to customize your site."
+msgstr ""
+"您刚刚已经完成了网站的创建！ 单击“观看视频”，查看关于如何自定义网站的快速演"
+"示。"
+
+#: includes/class-wpem-customizer.php:42
+msgid "Learn More"
+msgstr "了解更多"
+
+#: includes/class-wpem-customizer.php:43
+msgid ""
+"You've just created your website! Click \"Learn More\" to view some tips on "
+"how to customize your site ."
+msgstr ""
+"您刚刚已经完成了网站的创建！ 单击“了解更多”，查看关于如何自定义网站的一些技"
+"巧。"
+
+#: includes/class-wpem-customizer.php:58
+msgid "Congratulations!"
+msgstr "恭喜！"
+
+#: includes/class-wpem-customizer.php:149
+msgid "The Customizer"
+msgstr "定制器"
+
+#: includes/class-wpem-customizer.php:151
+msgid ""
+"You are now in the Customizer, a tool that enables you to make changes to "
+"your website’s appearance, and preview those changes before publishing them. "
+"We’ve created a few commonly-used pages and widgets to help you get started."
+msgstr ""
+"您现在所处的位置就是“定制器”，这款工具允许您更改网站的外观，并在发布之前预览"
+"这些更改。 我们已经创建了一些常用的页面和小部件以帮助您入门。"
+
+#: includes/class-wpem-customizer.php:152
+msgid ""
+"The top of the Customizer indicates the name of the active theme you’ve "
+"selected. You can change the theme at any time, but doing so will change "
+"these options and reset any customizations you might have made here."
+msgstr ""
+"定制器的顶部显示您已选择的活动主题的名称。 您可以随时更改主题，但此操作也将更"
+"改这些选项并重置您可能在此处已进行的任何自定义设置。"
+
+#: includes/class-wpem-customizer.php:153
+msgid ""
+"The options available in the Customizer will vary, depending on the features "
+"supported by your current theme. But most themes include these basic "
+"Customizer controls:"
+msgstr ""
+"定制器中的选项会有所不同，具体取决于您当前主题支持的功能。 但大多数主题都包括"
+"这些基本的定制器控件："
+
+#: includes/class-wpem-customizer.php:155
+msgid "Site Identity"
+msgstr "网站标识"
+
+#: includes/class-wpem-customizer.php:156
+msgid "Colors"
+msgstr "颜色"
+
+#: includes/class-wpem-customizer.php:157
+msgid "Header and Background Images"
+msgstr "标题和背景图像"
+
+#: includes/class-wpem-customizer.php:158
+msgid "Navigation Menus"
+msgstr "导航菜单"
+
+#: includes/class-wpem-customizer.php:159
+msgid "Widgets"
+msgstr "小工具"
+
+#: includes/class-wpem-customizer.php:161
+msgid ""
+"When you’re happy with your changes, click <strong>Save & Publish</strong> "
+"to keep these new settings. Or, simply close the Customizer by clicking the "
+"“X” in the top left-hand corner to discard your changes."
+msgstr ""
+"在对更改感到满意后，单击<strong>保存并发布</strong>以保留这些新设置。 或者，"
+"单击左上角的“X”，关闭定制器，以放弃更改。"
+
+#: includes/class-wpem-done.php:66
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: includes/class-wpem-done.php:152
+msgid "Store"
+msgstr "商店"
+
+#: includes/class-wpem-done.php:153
+msgid "store"
+msgstr "商店"
+
+#: includes/class-wpem-done.php:160
+msgid "Cart"
+msgstr "购物车"
+
+#: includes/class-wpem-done.php:161
+msgid "cart"
+msgstr "购物车"
+
+#: includes/class-wpem-done.php:166
+msgid "Checkout"
+msgstr "付款"
+
+#: includes/class-wpem-done.php:167
+msgid "checkout"
+msgstr "付款"
+
+#: includes/class-wpem-done.php:172
+msgid "My Account"
+msgstr "我的账户"
+
+#: includes/class-wpem-done.php:173
+msgid "account"
+msgstr "账户"
+
+#: includes/class-wpem-done.php:179
+msgid "About Me"
+msgstr "关于我"
+
+#: includes/class-wpem-done.php:180 includes/class-wpem-done.php:187
+msgid "about"
+msgstr "关于"
+
+#: includes/class-wpem-done.php:186
+msgid "About Us"
+msgstr "关于我们"
+
+#: includes/class-wpem-done.php:194
+msgid "Contact Me"
+msgstr "与我联系"
+
+#: includes/class-wpem-done.php:195 includes/class-wpem-done.php:202
+msgid "contact"
+msgstr "联系人"
+
+#: includes/class-wpem-done.php:201
+msgid "Contact Us"
+msgstr "联系我们"
+
+#: includes/class-wpem-done.php:208
+msgid "FAQs"
+msgstr "常见问题解答"
+
+#: includes/class-wpem-done.php:209
+msgid "faq"
+msgstr "常见问题解答"
+
+#: includes/class-wpem-done.php:215
+msgid "Get A Quote"
+msgstr "获取报价"
+
+#: includes/class-wpem-done.php:216
+msgid "estimates"
+msgstr "估计"
+
+#: includes/class-wpem-done.php:222
+msgid "Testimonials"
+msgstr "客户感言"
+
+#: includes/class-wpem-done.php:223
+msgid "testimonials"
+msgstr "感言"
+
+#: includes/class-wpem-done.php:424
+msgid "Recent Posts"
+msgstr "最新帖子"
+
+#: includes/class-wpem-done.php:433
+msgid "Archives"
+msgstr "存档"
+
+#: includes/class-wpem-done.php:450
+msgid "Browse Products"
+msgstr "浏览产品"
+
+#: includes/class-wpem-done.php:481
+msgid "Contact Form"
+msgstr "联系表"
+
+#: includes/class-wpem-done.php:482 includes/class-wpem-done.php:507
+msgid "Your form has been successfully submitted."
+msgstr "您的表单已成功提交。"
+
+#: includes/class-wpem-done.php:483 includes/class-wpem-done.php:508
+msgid "Thank you so much for contacting us. We will get back to you shortly."
+msgstr "非常感谢您联系我们。 我们会很快为您作出答复。"
+
+#: includes/class-wpem-done.php:506
+msgid "Request A Quote Form"
+msgstr "申请报价单"
+
+#: includes/class-wpem-step-settings.php:18
+#: includes/class-wpem-step-settings.php:19
+msgid "Settings"
+msgstr "设置"
+
+#: includes/class-wpem-step-settings.php:32
+msgid "Please tell us more about your website (all fields are required)"
+msgstr "请告诉我们关于您网站的更多信息（所有字段均为必填）"
+
+#: includes/class-wpem-step-settings.php:35
+#: includes/class-wpem-step-settings.php:111
+msgid "Type"
+msgstr "类型"
+
+#: includes/class-wpem-step-settings.php:38
+msgid "- Select a type -"
+msgstr "- 选择类型 -"
+
+#: includes/class-wpem-step-settings.php:39
+msgid "Standard (Recommended)"
+msgstr "标准版（建议）"
+
+#: includes/class-wpem-step-settings.php:40
+msgid "Blog"
+msgstr "博客"
+
+#: includes/class-wpem-step-settings.php:41
+msgid "Online Store"
+msgstr "网上商店"
+
+#: includes/class-wpem-step-settings.php:43
+msgid "What type of website are you creating?"
+msgstr "您创建的网站类型是什么？"
+
+#: includes/class-wpem-step-settings.php:47
+#: includes/class-wpem-step-settings.php:117
+msgid "Industry"
+msgstr "行业"
+
+#: includes/class-wpem-step-settings.php:50
+msgid "- Select an industry -"
+msgstr "- 选择行业 -"
+
+#: includes/class-wpem-step-settings.php:51
+msgid "Business / Finance / Law"
+msgstr "商业/金融/法律"
+
+#: includes/class-wpem-step-settings.php:52
+msgid "Design / Art / Portfolio"
+msgstr "设计/艺术/投资组合"
+
+#: includes/class-wpem-step-settings.php:53
+msgid "Education"
+msgstr "教育培训"
+
+#: includes/class-wpem-step-settings.php:54
+msgid "Health / Beauty"
+msgstr "健康/美容"
+
+#: includes/class-wpem-step-settings.php:55
+msgid "Home Services / Construction"
+msgstr "家居服务/建筑"
+
+#: includes/class-wpem-step-settings.php:56
+msgid "Music / Movies / Entertainment"
+msgstr "音乐/电影/娱乐"
+
+#: includes/class-wpem-step-settings.php:57
+msgid "Non-profit / Causes / Religious"
+msgstr "非营利/事业/宗教"
+
+#: includes/class-wpem-step-settings.php:58
+msgid "Other"
+msgstr "其他"
+
+#: includes/class-wpem-step-settings.php:59
+msgid "Personal / Family / Wedding"
+msgstr "个人/家庭/婚礼"
+
+#: includes/class-wpem-step-settings.php:60
+msgid "Pets / Animals"
+msgstr "宠物/动物"
+
+#: includes/class-wpem-step-settings.php:61
+msgid "Real Estate"
+msgstr "房地产"
+
+#: includes/class-wpem-step-settings.php:62
+msgid "Restaurant / Food"
+msgstr "餐厅/食物"
+
+#: includes/class-wpem-step-settings.php:63
+msgid "Sports / Recreation"
+msgstr "体育/娱乐"
+
+#: includes/class-wpem-step-settings.php:64
+msgid "Transportation / Automotive"
+msgstr "交通运输/汽车"
+
+#: includes/class-wpem-step-settings.php:65
+msgid "Travel / Hospitality / Leisure"
+msgstr "旅游/餐饮/休闲"
+
+#: includes/class-wpem-step-settings.php:67
+msgid "What will your website be about?"
+msgstr "您网站的内容关于哪方面？"
+
+#: includes/class-wpem-step-settings.php:71
+#: includes/class-wpem-step-settings.php:123
+msgid "Title"
+msgstr "标题"
+
+#: includes/class-wpem-step-settings.php:73
+msgid "Enter your website title here"
+msgstr "请在此输入您的网站标题"
+
+#: includes/class-wpem-step-settings.php:74
+msgid ""
+"The title of your website appears at the top of all pages and in search "
+"results."
+msgstr "网站标题将出现在所有网页顶部和搜索结果中。"
+
+#: includes/class-wpem-step-settings.php:78
+#: includes/class-wpem-step-settings.php:129
+msgid "Tagline"
+msgstr "标语"
+
+#: includes/class-wpem-step-settings.php:80
+msgid "Enter your website tagline here"
+msgstr "请在此输入您的网站标语"
+
+#: includes/class-wpem-step-settings.php:81
+msgid ""
+"Think of the tagline as a slogan that describes what makes your website "
+"special. It will also appear in search results."
+msgstr ""
+"请想一个作为口号的标语，彰显您的网站与众不同。 标语也将出现在搜索结果中。"
+
+#: includes/class-wpem-step-settings.php:98
+#: includes/class-wpem-step-start.php:47
+msgid "Continue"
+msgstr "继续"
+
+#: includes/class-wpem-step-settings.php:170
+msgid "All fields are required"
+msgstr "所有字段均必填"
+
+#: includes/class-wpem-step-start.php:18
+msgid "Start"
+msgstr "开始"
+
+#: includes/class-wpem-step-start.php:19
+msgid "WordPress Setup"
+msgstr "WordPress 设置"
+
+#: includes/class-wpem-step-start.php:32
+msgid ""
+"Welcome to our WordPress setup wizard. It's designed to help get your site's "
+"basic configurations done quickly and easily so you can get online faster."
+msgstr ""
+"欢迎使用 WordPress 设置向导。 本向导旨在帮您迅速简便地完成网站基本配置，以便"
+"您能让网站快速上线。"
+
+#: includes/class-wpem-step-start.php:34
+msgid "It's completely optional and will only take a few minutes."
+msgstr "整个过程可以自由选择，只需花费几分钟时间。"
+
+#: includes/class-wpem-step-start.php:46
+msgid "No, thanks"
+msgstr "不，谢谢"
+
+#: includes/class-wpem-step-theme.php:18
+msgid "Theme"
+msgstr "主题"
+
+#: includes/class-wpem-step-theme.php:19
+msgid "Choose a Theme"
+msgstr "选择主题"
+
+#: includes/class-wpem-step-theme.php:32
+msgid ""
+"Choose a design for your website (don't worry, you can change this later)"
+msgstr "为您的网站选择一款设计（不用担心，您可以稍后更改）"
+
+#: includes/class-wpem-step-theme.php:43
+msgid "Preview"
+msgstr "预览"
+
+#: includes/class-wpem-step-theme.php:44 includes/class-wpem-step-theme.php:64
+msgid "By"
+msgstr "排序方式"
+
+#: includes/class-wpem-step-theme.php:47 includes/class-wpem-step-theme.php:59
+msgid "Activate"
+msgstr "激活"
+
+#: includes/class-wpem-step-theme.php:56
+msgid "Close"
+msgstr "关闭"
+
+#: includes/class-wpem-step-theme.php:57
+msgid "Previous"
+msgstr "前一个"
+
+#: includes/class-wpem-step-theme.php:58
+msgid "Next"
+msgstr "下一步"
+
+#: includes/class-wpem-step-theme.php:67
+msgid "Version:"
+msgstr "版本："
+
+#: includes/class-wpem-step-theme.php:75
+msgid "Collapse"
+msgstr "折叠"
+
+#: includes/functions.php:197
+msgid "Error: WP-CLI not found"
+msgstr "错误： 未找到 WP-CLI"
+
+#: templates/fullscreen.php:38
+msgid "WordPress"
+msgstr "WordPress"
